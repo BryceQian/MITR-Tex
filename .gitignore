@@ -1,0 +1,21 @@
+# Local compilation outputs and temporary copies
+build/
+tmp/
+*.pdf
+*.zip
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.bak
+*.swp
