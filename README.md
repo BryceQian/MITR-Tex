@@ -10,7 +10,7 @@
 
    > 如果链接失效，也可按下方 GitHub 使用说明下载源码，再上传到 Overleaf。
 
-2. 拷贝项目（左上角 File - make a copy）
+2. 拷贝项目（左上角 `File` - `make a copy` 或 `文件` - `复制一份`）
 
    > 如果 `make a copy` 呈灰色，请先登录 Overleaf. 
 
