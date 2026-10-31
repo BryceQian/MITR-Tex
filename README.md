@@ -6,7 +6,7 @@
 
 ## 在 Overleaf 上使用
 
-1. 访问 https://www.overleaf.com/project/6ae5c7311d8d805bbb42fec3/share#9bb399c9e3fd1a8ff052fb036e77c18b9850ff9d9b3285b9
+1. 登录你的 Overleaf. 然后访问 [Overleaf项目链接](https://www.overleaf.com/project/6ae5c7311d8d805bbb42fec3/share#9bb399c9e3fd1a8ff052fb036e77c18b9850ff9d9b3285b9)
 
    > 如果链接失效，也可按下方 GitHub 使用说明下载源码，再上传到 Overleaf。
 
